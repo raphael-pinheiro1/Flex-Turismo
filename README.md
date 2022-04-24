@@ -9,6 +9,4 @@
 <ul>
 <br>
 
-<p>Github pages: https://raphael-pinheiro1.github.io/Flex-Turismo/</p>
-
 <p>Fiz essa estilização no site de forma individual ao curso, para testar meus conecimentos com css e flexbox.</p>
