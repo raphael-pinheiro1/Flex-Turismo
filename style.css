@@ -247,6 +247,7 @@ header ul li a:active {
 .plano1 ul li {
     list-style: disc;
     font-size: 15px;
+    padding-bottom: 0.3em;
 }
 
 .flex-planos-bloco a {
@@ -288,6 +289,7 @@ header ul li a:active {
 .plano2 ul li {
     list-style: disc;
     font-size: 15px;
+    padding-bottom: 0.3em;
 }
 
 .plano3 {
@@ -310,6 +312,7 @@ header ul li a:active {
 .plano3 ul li {
     list-style: disc;
     font-size: 15px;
+    padding-bottom: 0.3em;
 }
 
 .rodape {
