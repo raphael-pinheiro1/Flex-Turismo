@@ -9,4 +9,5 @@
 <ul>
 <br>
 
+<p>Site: https://flex-turismo-dio.netlify.app/</p>
 <p>Fiz essa estilização no site de forma individual ao curso, para testar meus conecimentos com css e flexbox.</p>
